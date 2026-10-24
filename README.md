@@ -1,4 +1,4 @@
-# Personal website starter — Ami Bhushan Jha
+# Personal website starter 
 
 This is a responsive static personal profile website intended for GitHub Pages and a custom domain registered with GoDaddy.
 
